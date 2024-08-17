@@ -82,6 +82,7 @@ This project is a weather dashboard application that fetches weather data, calcu
 ## Accessing the Dashboard
 
 Open a web browser and navigate to [http://127.0.0.1:8000/dashboard/](http://127.0.0.1:8000/dashboard/) to view the weather dashboard.
+Temaparature scale feature allows users to select their preferred temperature scale, as illustrated in the figure below. It then provides temperatures based on the user's selection.
 
 ![image](https://github.com/user-attachments/assets/2a9abad8-fee3-43d0-a946-a5f4b0a59347)
 
