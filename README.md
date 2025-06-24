@@ -1,13 +1,27 @@
-# Real-Time Data Processing System for Weather Monitoring
+<h1 align="center">🌤️ Real-Time Weather Monitoring Dashboard</h1>
 
-This project is a weather dashboard application that fetches weather data, calculates daily summaries, and checks for alerts. It uses Django with Celery for task scheduling.
+<p align="center">
+  <b>Track, Analyze, and Alert - All in Real-Time</b><br>
+  <i>Built with Django · Celery · Redis · PostgreSQL</i>
+</p>
 
-## Prerequisites
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Django-4.x-green?logo=django" />
+  <img src="https://img.shields.io/badge/Celery-TaskQueue-brightgreen" />
+  <img src="https://img.shields.io/badge/Redis-Broker-red?logo=redis" />
+</p>
 
-- Python 3.9+
-- Django
-- Celery
-- Redis (for Celery broker)
+---
+
+## 📌 Overview
+
+This project is a **real-time weather monitoring system** that automatically fetches weather data, calculates daily summaries, and sends heat alerts for selected cities.
+
+It includes:
+- Real-time dashboard to visualize temperature data
+- Scheduled tasks using Celery for periodic data updates
+- Temperature scale switching (Celsius / Fahrenheit)
 
 ## Installation (WSL - Ubuntu)
 
