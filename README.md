@@ -1,4 +1,5 @@
-<h1 align="center">🌤️ Real-Time Weather Monitoring Dashboard</h1>
+<h1 align="center">🌤️ ClimaCast</h1>
+<h3 align="center">Real-Time Weather Monitoring & Alert System</h3>
 
 <p align="center">
   <b>Track, Analyze, and Alert - All in Real-Time</b><br>
@@ -16,7 +17,7 @@
 
 ## 📌 Overview
 
-This project is a **real-time weather monitoring system** that automatically fetches weather data, calculates daily summaries, and sends heat alerts for selected cities.
+ClimaCast is a full-stack application that collects real-time weather data, summarizes daily conditions, and sends temperature alerts using scheduled background tasks.
 
 It includes:
 - Real-time dashboard to visualize temperature data
